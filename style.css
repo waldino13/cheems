@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("OIP\ \(2\).jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(0, 255, 255); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgba(255, 255, 255, 0); 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #ff8800;
+    border: none;
+    color: rgb(4, 0, 255);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
